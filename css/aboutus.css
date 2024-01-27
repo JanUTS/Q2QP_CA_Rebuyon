@@ -3,7 +3,7 @@
 
 body      
 {
-    background-image: url("../images/videomp.mp4");
+    background-image: url("./images/videomp.mp4");
     background-color: #800000;
     background-repeat: no-repeat;
     background-attachment: fixed;
